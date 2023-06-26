@@ -1,4 +1,5 @@
-# [Ramesh Raman]'s Notes
+# Ramesh Raman's Notes
 
 # This is an H1 header (largest)
 ###### This is an H6 header (smallest)
+
